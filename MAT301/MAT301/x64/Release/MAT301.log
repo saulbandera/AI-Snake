@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (CMP304.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MAT301.vcxproj -> D:\COMPUTER GAMES TECHNOLOGY\year 3\2022\ASSESSMENTS 2022\MAT301\UNIT 1 - AI\INFORMATION ON ASSESSMENT\MAT301\x64\Release\MAT301.exe
